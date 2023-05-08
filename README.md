@@ -1,4 +1,4 @@
-local
+fik
 myra
 fat
 fi
