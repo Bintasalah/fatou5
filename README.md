@@ -1,4 +1,4 @@
-remote
+riri
 myra
 fat
 fi
