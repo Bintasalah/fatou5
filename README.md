@@ -1,4 +1,4 @@
-riri
+local
 myra
 fat
 fi
