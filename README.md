@@ -1,4 +1,4 @@
 Remote
-kadi
+local
 fat
 fi
